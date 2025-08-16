@@ -1,4 +1,4 @@
-# 📱 Mobile Recharge Prepaid Application
+# 📱 Mobile Prepaid Recharge Application
 
 A **secure, full-stack web application** for **prepaid mobile recharges**, featuring dual portals for **Customers** and **Administrators**, seamless **payment gateway integration**, and automated **recharge scheduling**.
 
