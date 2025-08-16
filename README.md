@@ -3,7 +3,7 @@
 A **secure, full-stack web application** for **prepaid mobile recharges**, featuring dual portals for **Customers** and **Administrators**, seamless **payment gateway integration**, and automated **recharge scheduling**.
 
 ---
-### 👤 Authod: DHINESHKUMAR M
+### 👤 Author: DHINESHKUMAR M
 
 ![WhatsApp Image 2025-08-16 at 17 45 00_bc726b81](https://github.com/user-attachments/assets/d10c01a7-8cb6-4ec3-b993-65cdc3997681)
 
